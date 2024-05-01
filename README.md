@@ -53,6 +53,7 @@ A list of things I think are cool
 - [Hunter.io](https://hunter.io/) - Email finder service.
 - [doctemplates.net](https://www.doctemplates.net/) - Legal agreement templates.
 - [USGS Topoviewer](https://ngmdb.usgs.gov/topoview/viewer/) - Online map viewer for the US.
+- [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Absoulutely mind-boggling how powerful compound interest is.
 
 
 ## Funny
