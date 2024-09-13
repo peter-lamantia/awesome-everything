@@ -109,6 +109,7 @@ A list of things I think are cool
 ## Resources
 - [FCC Complaints](https://consumercomplaints.fcc.gov/hc/en-us)
 - [Internet Crime Complaint Center (IC3)](https://www.ic3.gov/complaint/default.aspx)
+- [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Absoulutely mind-boggling how powerful compound interest is.
 
 
 ## Funny
