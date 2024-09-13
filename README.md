@@ -4,7 +4,9 @@ A list of things I think are cool
 
 ## School and College
 - [Niche](https://www.niche.com/?ref=colleges) - A website to discover things about colleges.
-- [Rate My Professors](https://www.ratemyprofessors.com/) - Learn what professors are good for the classes you're taking.
+- [Rate My Professors](https://www.ratemyprofessors.com/) - See what classes to take or avoid.
+- [Azure Dev Tools for Teaching](https://azureforeducation.microsoft.com/devtools) - Allows access to courses, licenses, and more.
+- [College Scorecard](https://collegescorecard.ed.gov/) - See various statistics about your school.
 
 
 ## Learning
@@ -36,6 +38,8 @@ A list of things I think are cool
 - [Online Stats Book](https://onlinestatbook.com/index.html) - An online statistics book.
 - [Project Gutenberg](https://www.gutenberg.org/) - a large library of free e-books.
 - [IT eBooks](https://it-ebooks.info/) - IT-focused book repository.
+- [OverTheWire: Wargames](https://overthewire.org/wargames/) - Good web app CTF
+- [Physics hypertextbook](https://hypertextbook.com/) - Physics book
 
 
 ## Tools
@@ -53,13 +57,67 @@ A list of things I think are cool
 - [Hunter.io](https://hunter.io/) - Email finder service.
 - [doctemplates.net](https://www.doctemplates.net/) - Legal agreement templates.
 - [USGS Topoviewer](https://ngmdb.usgs.gov/topoview/viewer/) - Online map viewer for the US.
+- [Do Nothing for 2 Minutes](http://www.donothingfor2minutes.com/) - As the name implies.
+- [Typing Practice](https://www.keybr.com/) - Get better at typing.
+- [myNoise](https://mynoise.net/) - Different sounds that can help with focus or relaxation.
+- [Webpage archive](https://archive.is/) - Can sometimes get around site paywalls.
+- [Octopart](https://octopart.com/) - An electronic components search engine.
+- [MIT App Inventor](http://ai2.appinventor.mit.edu/) - Make your own Android app in a browser!
+- [Postman](https://www.postman.com/) - Fantastic API development and debugging platform.
+- [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS library in the world.
+- [Toptal keycode](https://keycode.info/) - Returns information about browser keypresses.
+- [Toptal gigignore generator](https://www.toptal.com/developers/gitignore) - Generates gitignore files depending on the language and environment.
+- [Hugo](https://gohugo.io/) - Simple static site generator.
+- [SSL Server Test](https://www.ssllabs.com/ssltest/index.html) - Helps verify proper SSL configuration.
+- [DNS leak test](https://www.dnsleaktest.com/)
+- [osquery](https://www.osquery.io/) - Easily ask questions about your Linux, Windows, and macOS infrastructure using SQL.
+- [Algolia](https://www.algolia.com/) - Site Search & Discovery powered by AI. I have not programmed with this personally but every site I have used with it has been pleasant.
+- [Apache Guacamole](https://guacamole.apache.org/) - Clientless remote desktop gateway.
+- [Crontab.guru](https://crontab.guru/) - The cron schedule expression editor.
+- [Cron Helper](https://cron.help/) - Crontab syntax helper for us humans. Similar to above.
+- [DNS Propagation Checker - Global DNS Testing Tool](https://www.whatsmydns.net/)
+- [Centralops](https://centralops.net/co/) - Free online network tools - traceroute, nslookup, dig, whois lookup, ping, etc.
+- [PageSpeed Insights](https://pagespeed.web.dev/) - See how your site performs for UX and SEO reasons.
+- [Pingdom Tools](https://tools.pingdom.com/) - Website Speed Test.
+- [TinyPNG](https://tinypng.com/) - Compress WebP, PNG and JPEG images intelligently.
+- [Hugging Face](https://huggingface.co/) - The de-facto AI model website.
+- [Grafana](https://grafana.com/) - Open source observability platform.
+- [Speedtest.net](http://www.speedtest.net/) - Test internet speed.
+- [Fast.com](https://fast.com/) - Speed test based on Netflix's servers, may give more real-world results than Speedtest.net.
+- [draw.io](https://www.draw.io/) - Online diagram maker.
+- [Desmos](https://www.desmos.com/calculator) - Online graphing calculator.
+- [PCPartPicker](https://pcpartpicker.com/) - Helps you put together a PC with compatible parts.
+- [UFO Test](https://www.testufo.com/) - Test display framerate.
+- [Online Tone Generator](http://www.szynalski.com/tone-generator/) - Generate pure tones of any frequency.
+- [Overleaf](https://www.overleaf.com/) - Online LaTeX Editor.
+- [Downdetector](https://downdetector.com/) - See when sites are down.
+- [Paletton](https://paletton.com/) - The Color Scheme Designer
+- [Color code](https://colourco.de/) - Helps pick a color/palette and provides hex codes.
+- [FlightAware MiseryMap](https://flightaware.com/miserymap/)
+- [Resistor Color Code Calculator](https://resistorcolorcodecalc.com/)
+- [Calculator Suite - GeoGebra](https://www.geogebra.org/calculator)
+- [Censys Search](https://search.censys.io/)
+- [ParcelMonkey](https://www.parcelmonkey.com/labels) - Print discounted shipping labels.
+- [BuiltWith](https://builtwith.com/) - See what websites are made with.
+- [White screen](https://www.whitescreen.online/) - Show blank colors on a screen.
+- [camelcamelcamel.com](https://www.camelcamelcamel.com/) - Amazon price tracker, Amazon price history charts, price watches, and price drop alerts.
+- [Annual Credit Report.com](https://www.annualcreditreport.com/index.action) - Free credit report.
+- [Terms of Service, Didn't Read](https://tosdr.org/) - Simplifies ToS for people to understand policies.
+- [12ft Ladder](https://12ft.io/) - Can bypass some paywalls.
+
+
+## Resources
+- [FCC Complaints](https://consumercomplaints.fcc.gov/hc/en-us)
+- [Internet Crime Complaint Center (IC3)](https://www.ic3.gov/complaint/default.aspx)
 
 
 ## Funny
-- https://matias.me/nsfw/
+- [Conga!](https://matias.ma/nsfw/)
+- [The Useless Web](https://theuselessweb.com/)
 
 
 ## Information 
+- [Wikipedia](https://www.wikipedia.org/) - How could I not? Wikipedia has thousands of useful articles.
 - [Internet Archive](https://archive.org/) - non-profit library of millions of free books, movies, software, music, websites, and more.
 - [Wayback Machine](https://web.archive.org/) - part of the Internet Archive, allows you to see what websites looked like over time.
 - [Investopedia](https://www.investopedia.com/) - great reference for investing and financial literacy.
@@ -78,12 +136,39 @@ A list of things I think are cool
 - [National Archives](https://www.archives.gov/) - 
 - [Data.gov](https://catalog.data.gov/dataset) - a large, indexed dataset of open US government data
 - [Exploit Database](https://www.exploit-db.com/) - CVE compliant archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers. 
+- [Cyber Career Pathways Tool | NICCS](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool) - Interactive site to explore cyber careers
+- [Cyberseek](https://www.cyberseek.org/) - Data-driven exploration of cyber careers
+- [Doctor Of Credit](https://www.doctorofcredit.com/) - Learn about Bank Account and Credit Card Bonuses
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - A computer science portal for geeks
+- [Semantic Versioning](https://semver.org/)
+- [MITRE ATT&CK®](https://attack.mitre.org/) - Very popular cybersecurity framework.
+- [Cloud Native Landscape](https://landscape.cncf.io/) - Interactive visualization of cloud technologies.
+- [Light pollution map](https://www.lightpollutionmap.info/)
+- [Travel.State.Gov](https://travelmaps.state.gov/TSGMap/?) - See dynamically updated map of the world showing travel advisories.
+- [PassMark Software](https://www.passmark.com/) - PC Benchmarks.
+- [Gapminder](https://www.gapminder.org/) - Fact-based data visualizations that everyone can understand.
+
+
+## Magazines / Articles
+- [The Outline](https://theoutline.com/)
+- [How-To Geek](https://www.howtogeek.com/)
+- [Hacker Noon](https://hackernoon.com/)
+- [Smithsonian Magazine](https://www.smithsonianmag.com/)
+- [The MIT Press Reader](https://thereader.mitpress.mit.edu/)
+- [Visual Capitalist](https://www.visualcapitalist.com/)
+- [BleepingComputer.com - Technology news and support](https://www.bleepingcomputer.com/)
+- [Krebs on Security – In-depth security news and investigation](https://krebsonsecurity.com/)
+- [The Hacker News | #1 Trusted Cybersecurity News Site](https://thehackernews.com/)
 
 
 ## Blogs
 - [Paul Graham](https://paulgraham.com/)
 - [Seth Godin](https://seths.blog/)
 - [Shane Snow](https://shanesnow.com/)
+- [Wait But Why](http://waitbutwhy.com/)
+- [Paul Graham](http://paulgraham.com/)
+- [Oliver Emberton](https://oliveremberton.com/)
+- [Aatish Bhatia](https://aatishb.com/)
 
 
 ## Podcasts
@@ -95,6 +180,8 @@ A list of things I think are cool
 - [ESPN Sport Difficulty Ranking](http://www.espn.com/espn/page2/sportSkills) - Spoiler: the toughest sport is boxing.
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Simply reload the page to get a new AI-generated picture of someone
 - [Every Noise at Once](https://everynoise.com/) - An online map of explorable sounds.
+- [The Best Commencement Speeches, Ever : NPR](http://apps.npr.org/commencement/)
+- [Startups in 13 Sentences](http://paulgraham.com/13sentences.html)
 
 
 ## Games
@@ -113,9 +200,21 @@ A list of things I think are cool
 - [freshLUTs](https://freshluts.com/) - Free LUTs.
 - [Free Music Archive](https://freemusicarchive.org/) - Royalty free music.
 - [Pexels](https://www.pexels.com/) - Royalty free stock images and videos.
+- [NASA's Astronomy Picture of the Day](https://apod.nasa.gov/apod/) - A new picture every day. This is partially a service run by Michigan Tech!
+- [Google Fonts](https://fonts.google.com/) - Free fonts for download.
 
 
 
 ## Reference
 - [Windows Keyboard Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)
+- [2FA Directory (United States)](https://2fa.directory/us/) - A list of 2FA services and their support for 2FA.
+
+
+
+## Homelab
+- [OPNsense](https://opnsense.org/) - Open source firewall router with many features. Subjectively better GUI than pfsense.
+- [xcp-ng](https://xcp-ng.org/) - Open source hypervisor/virtualization platform. Similar to ESXi in terms of deployment.
+- [Xen Orchestra](https://xen-orchestra.com/) - Great mangement software for xcp-ng hosts.
+- [Proxmox](https://www.proxmox.com/en/) - Open source hypervisor/virtualization platform.
+- [TrueNAS](https://www.truenas.com/) - Open source NAS software based on ZFS.
 
